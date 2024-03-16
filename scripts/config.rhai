@@ -10,9 +10,7 @@ let conferences = [
     // CV
     "ACM MM", "BMVC", "CVPR", "ECCV", "ICCV", "ICIP", "ICME", "SIGGRAPH", 
     // ML
-    "ACML", "AISTATS", "ECML", "ICLR", "ICML", "ML4H", "NeurIPS", "NIPS", 
-    // NLP
-    "AACL", "ACL", "CCL", "COLING", "COLT", "CoNLL", "EACL", "EMNLP", "ICASSP", "ICDAR", "ICONIP", "INTERSPEECH", "LREC", "NAACL", "NLPCC", "RepL4NLP", "SIGDIAL", "SemEval", "WANLP", "WASSA", "WOAH",
+    "ACML", "AISTATS", "ECML", "ICLR", "ICML", "ML4H", "NeurIPS", "NIPS",   
 ];
 
 let start = conferences.shift();
